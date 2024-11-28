@@ -1,0 +1,14 @@
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\bin\Debug\net8.0\FileSystemVisitor1.exe
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\bin\Debug\net8.0\FileSystemVisitor1.deps.json
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\bin\Debug\net8.0\FileSystemVisitor1.runtimeconfig.json
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\bin\Debug\net8.0\FileSystemVisitor1.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\bin\Debug\net8.0\FileSystemVisitor1.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\obj\Debug\net8.0\FileSystemVisitor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\obj\Debug\net8.0\FileSystemVisitor1.AssemblyInfoInputs.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\obj\Debug\net8.0\FileSystemVisitor1.AssemblyInfo.cs
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\obj\Debug\net8.0\FileSystemVisitor1.csproj.CoreCompileInputs.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\obj\Debug\net8.0\FileSystemVisitor1.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\obj\Debug\net8.0\refint\FileSystemVisitor1.dll
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\obj\Debug\net8.0\FileSystemVisitor1.pdb
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\obj\Debug\net8.0\FileSystemVisitor1.genruntimeconfig.cache
+C:\Users\Serdar_Filik\Desktop\DotNetBasicMentorProjects\AdvancedCSharpHomeTask1\FileSystemVisitor\FileSystemVisitor1\obj\Debug\net8.0\ref\FileSystemVisitor1.dll
